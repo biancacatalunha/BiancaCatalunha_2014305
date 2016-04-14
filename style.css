@@ -1,0 +1,152 @@
+body{
+				"Palatino Linotype", "Book Antiqua", Palatino, serif;
+				margin-right:30px;
+    			margin-left:30px;
+}
+
+header{
+				background-color:#cdb79e;
+}
+
+#headN{ 
+ 				margin-top:10px
+ }
+ 
+#callout { 
+ 				background-color: #F9F9F9;  
+	    		color:#2C2C2C;
+}
+
+a:link {
+    			text-decoration: none;
+}
+
+a:link {
+    			color: #8b3a3a;
+}
+
+a:visited {
+    			color: #974E4E;
+}
+
+a:hover {
+    			color: #7D3434;
+}
+
+a:active {
+    			color: #6F2E2E;
+}
+
+.nav {
+				display: inline;
+				padding-right: 5px;
+				padding-top: 30px;
+				list-style-type: none;
+				color:#8b3a3a;
+}
+	     
+footer {
+ 				background-color: #90806F;  
+        		font-size: 10pt;
+	    		color:#2C2C2C;
+}
+	
+#field1 {
+				float: right;
+				background-color: #FFFAF5;
+				width: 400px;
+				border: 1px solid #dcdcdc;
+				border-radius: 10px;
+				padding: 20px;
+				
+}
+
+#sub_field1 {
+				float: right;
+				background-color: #FFFAF5;
+				width: 400px;
+				border: 1px solid #dcdcdc;
+				border-radius: 10px;
+				
+}
+
+#field2 {
+				background-color: #FFFAF5;
+				float: left;
+				width: 400px;
+				border: 1px solid #dcdcdc;
+				border-radius: 10px;
+				padding: 20px;
+				
+}
+
+#sub_field2 {
+				background-color: #FFFAF5;
+				float: left;
+				width: 400px;
+				border: 1px solid #dcdcdc;
+				border-radius: 10px;
+				
+}
+
+#category{
+				text-align: center;
+				font-size:18pt;  
+				font-style:Bold; 
+				color:#3E372F;
+}
+
+#sub_category{
+				text-align: left;
+				font-size:15pt;  
+				font-style:Bold; 
+				color:#3E372F;
+}
+
+#category_description{
+				text-align: right;
+				font-size:10pt;  
+				font-style:italic; 
+				color:#3E372F;
+}
+
+#item{
+				padding: 5px;
+				text-align: left;
+				font-size:12pt;  
+				color:#3E372F;
+}
+
+#price{
+				padding: 10px;
+				float: right;
+				text-align: right;
+				font-size:13pt;  
+				color:#3E372F;
+}
+
+#description{
+				padding-top: 3px;
+				padding-left: 7pt;
+				text-align: left;
+				font-size:10pt;  
+				color:#3E372F;
+}
+		
+#selo1{
+				float:right;
+				width: 70pt;
+				height: 70pt;
+}
+
+#iframe{
+				padding: 10pt;
+  				width: 200pt;
+  				height: 400pt;
+}
+
+#contact{
+				padding: 10pt;
+				float: right;
+}
+	
